@@ -7,12 +7,16 @@ DOMAIN,667dkdlskf.wkmds.top
 DOMAIN,mlvbdc.live.tlivesource.com
 DOMAIN-SUFFIX,7kv5kqq7k77g.hebeisaixin.com
 DOMAIN-SUFFIX,0csp7bqtxeaj.sourcelandchina.com
-#wuyichigua
+#51chigua
 DOMAIN-SUFFIX,liheiat.xyz
 DOMAIN-SUFFIX,uiixsrhp.cc
 DOMAIN-SUFFIX,delipu.cc
+#PICO
+DOMAIN-SUFFIX,picovr.com
+DOMAIN-SUFFIX,smartisan.com
 
+
+#EXAMPLE
 #DOMAIN-KEYWORD,KEYWORD
 #IP-CIDR,xxx.xxx.xxx.xxx/32,no-resolve
 #IP-CIDR,xxx.xxx.xxx.0/24,no-resolve
-
