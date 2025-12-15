@@ -1,21 +1,26 @@
 # NAME: DIY_DIRECT
 
-#hscangku
+# hscangku
 DOMAIN-SUFFIX,cdn2020.com
-#anxiang
+# anxiang
 DOMAIN,667dkdlskf.wkmds.top
 DOMAIN,mlvbdc.live.tlivesource.com
 DOMAIN-SUFFIX,7kv5kqq7k77g.hebeisaixin.com
 DOMAIN-SUFFIX,0csp7bqtxeaj.sourcelandchina.com
 IP-CIDR,18.143.17.0/24,no-resolve
-#51chigua
+# 51chigua
 DOMAIN-SUFFIX,liheiat.xyz
 DOMAIN-SUFFIX,uiixsrhp.cc
 DOMAIN-SUFFIX,delipu.cc
-#PICO
+# PICO
 DOMAIN-SUFFIX,picovr.com
 DOMAIN-SUFFIX,smartisan.com
-
+# LEINIAO TV
+DOMAIN,game.api.my7v.com
+DOMAIN-SUFFIX,tcloudfamily.com
+DOMAIN-SUFFIX,tclai.top
+DOMAIN-SUFFIX,leiniao.com
+DOMAIN-SUFFIX,leiniao.aisee.tv
 
 #EXAMPLE
 #DOMAIN-KEYWORD,KEYWORD
