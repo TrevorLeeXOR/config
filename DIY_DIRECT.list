@@ -16,11 +16,17 @@ DOMAIN-SUFFIX,delipu.cc
 DOMAIN-SUFFIX,picovr.com
 DOMAIN-SUFFIX,smartisan.com
 # LEINIAO TV
-DOMAIN,game.api.my7v.com
+DOMAIN-SUFFIX,api.my7v.com
 DOMAIN-SUFFIX,tcloudfamily.com
 DOMAIN-SUFFIX,tclai.top
 DOMAIN-SUFFIX,leiniao.com
 DOMAIN-SUFFIX,leiniao.aisee.tv
+DOMAIN-SUFFIX,tclking.com
+DOMAIN-SUFFIX,cedock.com
+DOMIAN-SUFFIX,huan.tv
+DOMAIN-SUFFIX,huan.aisee.tv
+DOMAIN-SUFFIX,shixunsuda.com
+DOMAIN-SUFFIX,appstorehuan.com
 
 #EXAMPLE
 #DOMAIN-KEYWORD,KEYWORD
