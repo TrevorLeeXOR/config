@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "667dkdlskf.wkmds.top",
+        "mlvbdc.live.tlivesource.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".cdn2020.com",
+        ".7kv5kqq7k77g.hebeisaixin.com",
+        ".0csp7bqtxeaj.sourcelandchina.com",
+        ".liheiat.xyz",
+        ".uiixsrhp.cc",
+        ".delipu.cc",
+        ".picovr.com",
+        ".smartisan.com",
+        ".api.my7v.com",
+        ".tcloudfamily.com",
+        ".tclai.top",
+        ".leiniao.com",
+        ".leiniao.aisee.tv",
+        ".tclking.com",
+        ".cedock.com",
+        ".huan.tv",
+        ".huan.aisee.tv",
+        ".shixunsuda.com",
+        ".appstorehuan.com",
+        ".wowstream.cloud",
+        ".wowstream2.cloud",
+        ".surrit.com",
+        ".bttss.cc",
+        ".cklou.com",
+        ".timg216.top",
+        ".aixiaoxiao.xyz",
+        ".ah7907.com",
+        ".u88av.net",
+        ".shb002.com",
+        ".tycyule887tycyl.com",
+        ".hrqpkna.com",
+        ".njmkfm.com",
+        ".lgs2025ns.com",
+        ".bgbfds.com",
+        ".hq888.icu",
+        ".hsqy.org",
+        ".imgtupianaiguo.com",
+        ".kjfgsjghslirvnslkrf.com",
+        ".jinaos.com",
+        ".tycyule887tycyl.com",
+        ".dhorywoczwec.com"
+      ]
+    },
+    {
+      "source_ip_cidr": [
+        "18.143.17.0/24",
+        "192.168.0.1"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "wowstream"
+      ]
+    }
+  ]
+}
