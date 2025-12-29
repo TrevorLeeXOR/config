@@ -1,0 +1,1161 @@
+{
+  "dns": {
+    "servers": [
+      {
+        "tag": "local",
+        "type": "udp",
+        "server": "192.168.31.1"
+      },
+      {
+        "tag": "public",
+        "type": "https",
+        "server": "dns.alidns.com",
+        "domain_resolver": "local"
+      },
+      {
+        "tag": "foreign",
+        "type": "https",
+        "server": "8.8.8.8",
+        "detour": "🚀 默认代理"
+      },
+      {
+        "tag": "fakeip",
+        "type": "fakeip",
+        "inet4_range": "198.18.0.0/15",
+        "inet6_range": "fc00::/18"
+      }
+    ],
+    "rules": [
+      {
+        "clash_mode": "direct",
+        "server": "local"
+      },
+      {
+        "clash_mode": "global",
+        "server": "fakeip"
+      },
+      {
+        "query_type": "HTTPS",
+        "action": "reject"
+      },
+      {
+        "rule_set": "geosite-fakeipfilter",
+        "server": "local"
+      },
+      {
+        "query_type": [
+          "A",
+          "AAAA"
+        ],
+        "server": "fakeip",
+        "rewrite_ttl": 1
+      },
+      {
+        "rule_set": "geosite-cn",
+        "server": "local"
+      }
+    ],
+    "final": "foreign",
+    "client_subnet": "223.5.5.0/24",
+    "strategy": "ipv4_only",
+    "independent_cache": true,
+    "reverse_mapping": true
+  },
+  "outbounds": [
+    {
+      "tag": "🚀 默认代理",
+      "type": "selector",
+      "outbounds": [
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🧠 AI",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "📹 YouTube",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🍀 Google",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "👨‍💻 Github",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "📲 Telegram",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🎵 TikTok",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🎥 Netflix",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "💶 PayPal",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🎮 Steam",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🪟 Microsoft",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🐬 OneDrive",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🍏 Apple",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🐠 漏网之鱼",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🇭🇰 香港手动",
+      "type": "selector",
+      "outbounds": [
+        "🇭🇰 Hong Kong 01",
+        "🇭🇰 Hong Kong 02",
+        "🇭🇰 Hong Kong 03",
+        "🇭🇰 Hong Kong 04",
+        "🇭🇰 Hong Kong 05",
+        "🇭🇰 Hong Kong 06"
+      ]
+    },
+    {
+      "tag": "🇯🇵 日本手动",
+      "type": "selector",
+      "outbounds": [
+        "🇯🇵 Japan 01",
+        "🇯🇵 Japan 02",
+        "🇯🇵 Japan 03",
+        "🇯🇵 Japan 04",
+        "🇯🇵 Japan 05",
+        "🇯🇵 Japan 06"
+      ]
+    },
+    {
+      "tag": "🇸🇬 狮城手动",
+      "type": "selector",
+      "outbounds": [
+        "🇸🇬 Singapore 01",
+        "🇸🇬 Singapore 02",
+        "🇸🇬 Singapore 03",
+        "🇸🇬 Singapore 04",
+        "🇸🇬 Singapore 05",
+        "🇸🇬 Singapore 06"
+      ]
+    },
+    {
+      "tag": "🇺🇲 美国手动",
+      "type": "selector",
+      "outbounds": [
+        "🇺🇸 United States 01",
+        "🇺🇸 United States 02",
+        "🇺🇸 United States 03",
+        "🇺🇸 United States 04",
+        "🇺🇸 United States 05",
+        "🇺🇸 United States 06"
+      ]
+    },
+    {
+      "tag": "🐸 手动选择",
+      "type": "selector",
+      "outbounds": [
+        "未到期：2026-01-05",
+        "🇭🇰 Hong Kong 01",
+        "🇭🇰 Hong Kong 02",
+        "🇭🇰 Hong Kong 03",
+        "🇭🇰 Hong Kong 04",
+        "🇭🇰 Hong Kong 05",
+        "🇭🇰 Hong Kong 06",
+        "🇹🇼 Taiwan 01",
+        "🇹🇼 Taiwan 02",
+        "🇹🇼 Taiwan 03",
+        "🇹🇼 Taiwan 04",
+        "🇹🇼 Taiwan 05",
+        "🇹🇼 Taiwan 06",
+        "🇯🇵 Japan 01",
+        "🇯🇵 Japan 02",
+        "🇯🇵 Japan 03",
+        "🇯🇵 Japan 04",
+        "🇯🇵 Japan 05",
+        "🇯🇵 Japan 06",
+        "🇺🇸 United States 01",
+        "🇺🇸 United States 02",
+        "🇺🇸 United States 03",
+        "🇺🇸 United States 04",
+        "🇺🇸 United States 05",
+        "🇺🇸 United States 06",
+        "🇸🇬 Singapore 01",
+        "🇸🇬 Singapore 02",
+        "🇸🇬 Singapore 03",
+        "🇸🇬 Singapore 04",
+        "🇸🇬 Singapore 05",
+        "🇸🇬 Singapore 06",
+        "🇰🇷 Korea 01",
+        "🇰🇷 Korea 02",
+        "🇰🇷 Korea 03",
+        "🇨🇦 Canada 01",
+        "🇨🇦 Canada 02",
+        "🇨🇦 Canada 03",
+        "🇬🇧 United Kingdom 01",
+        "🇬🇧 United Kingdom 02",
+        "🇬🇧 United Kingdom 03",
+        "🇦🇶 Antarctica 01",
+        "🇦🇶 Antarctica 02",
+        "🇦🇶 Antarctica 03"
+      ]
+    },
+    {
+      "tag": "♻️ 自动选择",
+      "type": "urltest",
+      "outbounds": [
+        "未到期：2026-01-05",
+        "🇭🇰 Hong Kong 01",
+        "🇭🇰 Hong Kong 02",
+        "🇭🇰 Hong Kong 03",
+        "🇭🇰 Hong Kong 04",
+        "🇭🇰 Hong Kong 05",
+        "🇭🇰 Hong Kong 06",
+        "🇹🇼 Taiwan 01",
+        "🇹🇼 Taiwan 02",
+        "🇹🇼 Taiwan 03",
+        "🇹🇼 Taiwan 04",
+        "🇹🇼 Taiwan 05",
+        "🇹🇼 Taiwan 06",
+        "🇯🇵 Japan 01",
+        "🇯🇵 Japan 02",
+        "🇯🇵 Japan 03",
+        "🇯🇵 Japan 04",
+        "🇯🇵 Japan 05",
+        "🇯🇵 Japan 06",
+        "🇺🇸 United States 01",
+        "🇺🇸 United States 02",
+        "🇺🇸 United States 03",
+        "🇺🇸 United States 04",
+        "🇺🇸 United States 05",
+        "🇺🇸 United States 06",
+        "🇸🇬 Singapore 01",
+        "🇸🇬 Singapore 02",
+        "🇸🇬 Singapore 03",
+        "🇸🇬 Singapore 04",
+        "🇸🇬 Singapore 05",
+        "🇸🇬 Singapore 06",
+        "🇰🇷 Korea 01",
+        "🇰🇷 Korea 02",
+        "🇰🇷 Korea 03",
+        "🇨🇦 Canada 01",
+        "🇨🇦 Canada 02",
+        "🇨🇦 Canada 03",
+        "🇬🇧 United Kingdom 01",
+        "🇬🇧 United Kingdom 02",
+        "🇬🇧 United Kingdom 03",
+        "🇦🇶 Antarctica 01",
+        "🇦🇶 Antarctica 02",
+        "🇦🇶 Antarctica 03"
+      ],
+      "interval": "10m",
+      "tolerance": 200
+    },
+    {
+      "tag": "🍃 延迟辅助",
+      "type": "urltest",
+      "outbounds": [
+        "🚀 默认代理",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "GLOBAL",
+      "type": "selector",
+      "outbounds": [
+        "🚀 默认代理",
+        "🧠 AI",
+        "📹 YouTube",
+        "🍀 Google",
+        "👨‍💻 Github",
+        "📲 Telegram",
+        "🎵 TikTok",
+        "🎥 Netflix",
+        "💶 PayPal",
+        "🎮 Steam",
+        "🪟 Microsoft",
+        "🐬 OneDrive",
+        "🍏 Apple",
+        "🐠 漏网之鱼",
+        "🇭🇰 香港手动",
+        "🇺🇲 美国手动",
+        "🇸🇬 狮城手动",
+        "🇯🇵 日本手动",
+        "🐸 手动选择",
+        "♻️ 自动选择",
+        "🍃 延迟辅助",
+        "🎯 全球直连"
+      ]
+    },
+    {
+      "tag": "🎯 全球直连",
+      "type": "direct"
+    },
+    {
+      "tag": "剩余流量：33.49 GB",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24784,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "距离下次重置流量剩余：15天",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24784,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "未到期：2026-01-05",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24784,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇭🇰 Hong Kong 01",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24784,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇭🇰 Hong Kong 02",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24785,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇭🇰 Hong Kong 03",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14787,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇭🇰 Hong Kong 04",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14788,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇭🇰 Hong Kong 05",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36814,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇭🇰 Hong Kong 06",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36815,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇹🇼 Taiwan 01",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24786,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇹🇼 Taiwan 02",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24790,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇹🇼 Taiwan 03",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14789,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇹🇼 Taiwan 04",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14790,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇹🇼 Taiwan 05",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36816,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇹🇼 Taiwan 06",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36817,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇯🇵 Japan 01",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24791,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇯🇵 Japan 02",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24792,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇯🇵 Japan 03",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14791,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇯🇵 Japan 04",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14792,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇯🇵 Japan 05",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36818,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇯🇵 Japan 06",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36819,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇺🇸 United States 01",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24787,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇺🇸 United States 02",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24793,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇺🇸 United States 03",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14793,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇺🇸 United States 04",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14794,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇺🇸 United States 05",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36820,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇺🇸 United States 06",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36821,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇸🇬 Singapore 01",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24789,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇸🇬 Singapore 02",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24795,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇸🇬 Singapore 03",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14795,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇸🇬 Singapore 04",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14796,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇸🇬 Singapore 05",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36830,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇸🇬 Singapore 06",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36831,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇰🇷 Korea 01",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24794,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇰🇷 Korea 02",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14797,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇰🇷 Korea 03",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36824,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇨🇦 Canada 01",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24796,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇨🇦 Canada 02",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14798,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇨🇦 Canada 03",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 36826,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇬🇧 United Kingdom 01",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 27830,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇬🇧 United Kingdom 02",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 17831,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇬🇧 United Kingdom 03",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 37832,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇦🇶 Antarctica 01",
+      "type": "shadowsocks",
+      "server": "drtnmjjhu.swmixx.cn",
+      "server_port": 24797,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇦🇶 Antarctica 02",
+      "type": "shadowsocks",
+      "server": "sdtfrmnju.bgubvg.cn",
+      "server_port": 14799,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇦🇶 Antarctica 03",
+      "type": "shadowsocks",
+      "server": "szrhbetjmnx.4waf46.cn",
+      "server_port": 33918,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
+    },
+    {
+      "tag": "🇺🇸 美国免费[ipv6]",
+      "type": "vless",
+      "server": "2605:6400:20:337:4b2f:2186:32c7:591f",
+      "server_port": 443,
+      "uuid": "4b051cad-1ba9-4436-be3f-f28e8fce2a3e",
+      "packet_encoding": "xudp",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "us.archive.ubuntu.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "IDKfxFjmVdUwLZJazMqqJZabKPGhxwNhp1sOPKvHqwo",
+          "short_id": "758c70f9"
+        }
+      }
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "action": "sniff",
+        "sniffer": [
+          "http",
+          "tls",
+          "quic",
+          "dns"
+        ]
+      },
+      {
+        "type": "logical",
+        "mode": "or",
+        "rules": [
+          {
+            "port": 53
+          },
+          {
+            "protocol": "dns"
+          }
+        ],
+        "action": "hijack-dns"
+      },
+      {
+        "ip_is_private": true,
+        "outbound": "🎯 全球直连"
+      },
+      {
+        "source_ip_cidr": [
+          "172.17.0.3/32"
+        ],
+        "outbound": "🎯 全球直连"
+      },
+      {
+        "rule_set": "diy_direct",
+        "outbound": "🎯 全球直连"
+      },
+      {
+        "clash_mode": "direct",
+        "outbound": "🎯 全球直连"
+      },
+      {
+        "clash_mode": "global",
+        "outbound": "GLOBAL"
+      },
+      {
+        "rule_set": "geosite-youtube",
+        "outbound": "📹 YouTube"
+      },
+      {
+        "rule_set": "geosite-google",
+        "outbound": "🍀 Google"
+      },
+      {
+        "domain_suffix": [
+          "ttcdn-us.com"
+        ], 
+        "outbound": "🎵 TikTok"
+      },
+      {
+        "rule_set": "geosite-tiktok",
+        "outbound": "🎵 TikTok"
+      },
+      {
+        "rule_set": "geosite-telegram",
+        "outbound": "📲 Telegram"
+      },
+      {
+        "rule_set": "geosite-microsoft",
+        "outbound": "🪟 Microsoft"
+      },
+      {
+        "rule_set": "geosite-apple",
+        "outbound": "🍏 Apple"
+      },
+      {
+        "rule_set": "geosite-github",
+        "outbound": "👨‍💻 Github"
+      },
+      {
+        "rule_set": "geosite-ai",
+        "outbound": "🧠 AI"
+      },
+      {
+        "rule_set": "geosite-steamcn",
+        "outbound": "🎯 全球直连"
+      },
+      {
+        "rule_set": "geosite-steam",
+        "outbound": "🎮 Steam"
+      },
+      {
+        "rule_set": "geosite-onedrive",
+        "outbound": "🐬 OneDrive"
+      },
+      {
+        "rule_set": "geosite-netflix",
+        "outbound": "🎥 Netflix"
+      },
+      {
+        "rule_set": "geosite-paypal",
+        "outbound": "💶 PayPal"
+      },
+      {
+        "rule_set": "geosite-!cn",
+        "outbound": "🚀 默认代理"
+      },
+      {
+        "rule_set": "geosite-cn",
+        "outbound": "🎯 全球直连"
+      },
+      {
+        "rule_set": "geoip-google",
+        "outbound": "🍀 Google"
+      },
+      {
+        "rule_set": "geoip-apple",
+        "outbound": "🍏 Apple"
+      },
+      {
+        "rule_set": "geoip-telegram",
+        "outbound": "📲 Telegram"
+      },
+      {
+        "rule_set": "geoip-netflix",
+        "outbound": "🎥 Netflix"
+      },
+      {
+        "rule_set": "geoip-cn",
+        "outbound": "🎯 全球直连"
+      }
+    ],
+    "rule_set": [
+      {
+        "tag": "diy_direct",
+        "type": "remote",
+        "format": "source",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TrevorLeeXOR/config/refs/heads/main/singbox/DIY_DIRECT.json",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-fakeipfilter",
+        "type": "remote",
+        "format": "source",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/main/fakeipfilter.json",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-ai",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-!cn.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-youtube",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-google",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/google.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-github",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/github.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-onedrive",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/onedrive.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-microsoft",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/microsoft.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-apple",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/apple.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-telegram",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/telegram.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-tiktok",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/tiktok.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-netflix",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/netflix.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-paypal",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/paypal.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-steamcn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/steam@cn.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-steam",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/steam.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-!cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/geolocation-!cn.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/cn.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geoip-google",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/google.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geoip-apple",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo-lite/geoip/apple.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geoip-telegram",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/telegram.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geoip-netflix",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/netflix.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geoip-cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://gh-proxy.com/https://github.com/qljsyph/ruleset-icon/raw/refs/heads/main/sing-box/geoip/China-ASN-combined-ip.srs",
+        "download_detour": "🎯 全球直连"
+      }
+    ],
+    "final": "🐠 漏网之鱼",
+    "auto_detect_interface": true,
+    "default_domain_resolver": {
+      "server": "public"
+    }
+  },
+  "inbounds": [
+    {
+      "tag": "tun-in",
+      "type": "tun",
+      "address": [
+        "172.31.0.1/30",
+        "fdfe:dcba:9876::1/126"
+      ],
+      "mtu": 9000,
+      "auto_route": true,
+      "strict_route": false
+    },
+    {
+      "type": "mixed",
+      "listen": "0.0.0.0",
+      "listen_port": 7890
+    }
+  ],
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "store_fakeip": true
+    },
+    "clash_api": {
+      "external_controller": "0.0.0.0:9095",
+      "secret": "",
+      "default_mode": "rule"
+    }
+  },
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  }
+}
