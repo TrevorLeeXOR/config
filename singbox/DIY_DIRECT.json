@@ -53,6 +53,9 @@
             "domain_keyword": [
                 "wowstream"
             ],
+            "source_ip_cidr": [
+                "172.21.0.0/16"
+            ],
             "ip_cidr": [
                 "18.143.17.0/24"
             ]
