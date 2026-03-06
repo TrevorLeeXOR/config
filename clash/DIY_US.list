@@ -1,0 +1,16 @@
+# NAME: DIY_US
+
+# Truth Social
+DOMAIN,truthsocial.com
+DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-KEYWORD,truthsocial
+
+#EXAMPLE
+#DOMAIN-SUFFIX,google.com
+#DOMAIN-KEYWORD,google
+#DOMAIN,ad.com
+#SRC-IP-CIDR,192.168.1.201/32
+#IP-CIDR,127.0.0.0/8,no-resolve
+#GEOIP,CN
+#DST-PORT,80
+#SRC-PORT,7777
