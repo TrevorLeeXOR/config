@@ -52,6 +52,7 @@
       {"type": "logical", "mode": "or", "rules": [{"port": 53}, {"protocol": "dns"}], "action": "hijack-dns"},
       {"ip_is_private": true, "outbound": "🎯 全球直连"},
       {"rule_set": "diy_direct", "outbound": "🎯 全球直连"},
+      {"rule_set": "diy_us", "outbound": "🇺🇲 美国手动"},
       {"rule_set": "banad", "action": "reject"},
       {"rule_set": "banprogramad", "action": "reject"},
       {"clash_mode": "direct", "outbound": "🎯 全球直连"},
@@ -81,6 +82,7 @@
     ],
     "rule_set": [
       {"tag": "diy_direct", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TrevorLeeXOR/config/refs/heads/main/singbox/DIY_DIRECT.json", "download_detour": "🎯 全球直连"},
+      {"tag": "diy_us", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TrevorLeeXOR/config/refs/heads/main/singbox/DIY_US.json", "download_detour": "🎯 全球直连"},
       {"tag": "banad", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TrevorLeeXOR/config/refs/heads/main/singbox/BanAD.json", "download_detour": "🎯 全球直连"},
       {"tag": "banprogramad", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TrevorLeeXOR/config/refs/heads/main/singbox/BanProgramAD.json", "download_detour": "🎯 全球直连"},
       {"tag": "geosite-fakeipfilter", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/main/fakeipfilter.json", "download_detour": "🎯 全球直连"},
