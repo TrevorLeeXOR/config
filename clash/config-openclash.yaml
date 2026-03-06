@@ -6,7 +6,7 @@
 # proxy-providers下的 interval: 604800  单位为秒  604800对应7天
 proxy-providers:
   Airport1:
-    url: "https://drfytjmjhggnrgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=262ffa4b0a2b2159ca1279e024dadf32"
+    url: "http://192.168.31.3:3001/T3B9dgzBzdRbBF8Acmli/download/collection/all?target=ClashMeta"
     type: http
     interval: 604800
     health-check:
@@ -156,6 +156,7 @@ rules:
   - RULE-SET,private_ip,直连,no-resolve
   - RULE-SET,private_domain,直连
   - RULE-SET,diy_direct,直连
+  - RULE-SET,diy_us,🇺🇲 美国节点
   - RULE-SET,banad,REJECT
   - RULE-SET,banprogramad,REJECT
   - RULE-SET,gemini_domain,🔰 Gemini
@@ -191,6 +192,7 @@ rule-anchor:
 # 如果需要在openclash插件中使用，锚点使用方式可能需要由 "<<:" 改为 "!!merge <<:"
 rule-providers: 
   diy_direct: { <<: *class, url: "https://raw.githubusercontent.com/TrevorLeeXOR/config/refs/heads/main/clash/DIY_DIRECT.list"}
+  diy_us: { <<: *class, url: "https://raw.githubusercontent.com/TrevorLeeXOR/config/refs/heads/main/clash/DIY_US.list"}
 
   banad: { <<: *class, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"}
   banprogramad: { <<: *class, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list"}
