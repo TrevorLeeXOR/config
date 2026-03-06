@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "truthsocial.com"
+      ],
+      "domain_suffix": [
+        "truthsocial.com"
+      ],
+      "domain_keyword": [
+        "truthsocial"
+      ]
+    }
+  ]
+}
