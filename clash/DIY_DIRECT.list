@@ -4,10 +4,16 @@
 DOMAIN-SUFFIX,cdn2020.com
 # anxiang
 DOMAIN,667dkdlskf.wkmds.top
+DOMAIN,sldkfdsf.apskk.top
 DOMAIN,mlvbdc.live.tlivesource.com
 DOMAIN-SUFFIX,7kv5kqq7k77g.hebeisaixin.com
 DOMAIN-SUFFIX,0csp7bqtxeaj.sourcelandchina.com
 IP-CIDR,18.143.17.0/24,no-resolve
+IP-CIDR,13.250.241.0/24,no-resolve
+IP-CIDR,170.33.12.0/24,no-resolve
+IP-CIDR,52.52.84.0/24,no-resolve
+IP-CIDR,3.0.163.0/24,no-resolve
+IP-CIDR,47.130.191.0/24,no-resolve
 # 51chigua
 DOMAIN-SUFFIX,liheiat.xyz
 DOMAIN-SUFFIX,uiixsrhp.cc
