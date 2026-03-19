@@ -4,7 +4,8 @@
     {
       "domain": [
         "667dkdlskf.wkmds.top",
-        "mlvbdc.live.tlivesource.com"
+        "mlvbdc.live.tlivesource.com",
+        "sldkfdsf.apskk.top"
       ],
       "domain_suffix": [
         "cdn2020.com",
@@ -65,7 +66,12 @@
         "bygcloud"
       ],
       "ip_cidr": [
-        "18.143.17.0/24"
+        "18.143.17.0/24",
+        "13.250.241.0/24",
+        "170.33.12.0/24",
+        "52.52.84.0/24",
+        "3.0.163.0/24",
+        "47.130.191.0/24"
       ]
     },
     {
