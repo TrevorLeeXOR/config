@@ -275,340 +275,409 @@
       "tag": "🇭🇰 香港手动",
       "type": "selector",
       "outbounds": [
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK1",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK10",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK11",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK12",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK13",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK14",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK15",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK16",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK2",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK3",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK4",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK5",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK6",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK7",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK8",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK9",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 01",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 02",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 03",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 04",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 05",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 06",
-        "🇭🇰 [速游] CDN香港（官网1： suyou.org）",
-        "🇭🇰 [速游] 香港01-CDN联通(专线节点都在APP)",
-        "🇭🇰 [速游] 香港01（更多节点官网下载APP）",
-        "🇭🇰 [速游] 香港10-CDN优选"
+        "🇭🇰 [BYG] 🇭🇰 V香港 01",
+        "🇭🇰 [BYG] 🇭🇰 V香港 02",
+        "🇭🇰 [BYG] 🇭🇰 V香港 03",
+        "🇭🇰 [BYG] 🇭🇰 V香港 04",
+        "🇭🇰 [BYG] 🇭🇰 V香港 05",
+        "🇭🇰 [BYG] 🇭🇰 V香港 06",
+        "🇭🇰 [BYG] 🇭🇰 V香港 07",
+        "🇭🇰 [BYG] 🇭🇰 V香港 08",
+        "🇭🇰 [BYG] 🇭🇰 V香港 09",
+        "🇭🇰 [BYG] 🇭🇰 V香港 10"
       ]
     },
     {
       "tag": "🇯🇵 日本手动",
       "type": "selector",
       "outbounds": [
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP1",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP2",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP3",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP4",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP5",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP6",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP7",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP8",
-        "🇯🇵 [LLG] 🇯🇵Japan 01",
-        "🇯🇵 [LLG] 🇯🇵Japan 02",
-        "🇯🇵 [LLG] 🇯🇵Japan 03",
-        "🇯🇵 [LLG] 🇯🇵Japan 04",
-        "🇯🇵 [LLG] 🇯🇵Japan 05",
-        "🇯🇵 [LLG] 🇯🇵Japan 06",
-        "🇯🇵 [速游] 日本03-CDN优选",
-        "🇯🇵 [速游] 日本05-CDN优选",
-        "🇯🇵 [速游] 日本05-CDN电信优选",
-        "🇯🇵 [速游] 日本05-CDN移动优选",
-        "🇯🇵 [速游] 日本05-CDN联通优选"
+        "🇯🇵 [BYG] 🇯🇵 V日本 01",
+        "🇯🇵 [BYG] 🇯🇵 V日本 02",
+        "🇯🇵 [BYG] 🇯🇵 V日本 03",
+        "🇯🇵 [BYG] 🇯🇵 V日本 04",
+        "🇯🇵 [BYG] 🇯🇵 V日本 05",
+        "🇧🇾 [BYG] 🇳🇬 V尼日利亚",
+        "🇯🇵 [飞鸟云] 日本01aws",
+        "🇯🇵 [飞鸟云] 日本02aws",
+        "🇯🇵 [飞鸟云] 日本03aws",
+        "🇯🇵 [飞鸟云] 日本04aws",
+        "🇯🇵 [飞鸟云] 日本07aws",
+        "🇯🇵 [飞鸟云] 日本08aws",
+        "🇯🇵 [飞鸟云] 日本11aws",
+        "🇯🇵 [飞鸟云] 日本12aws",
+        "🇯🇵 [飞鸟云] 日本13aws",
+        "🇯🇵 [飞鸟云] 日本14aws",
+        "🇯🇵 [飞鸟云] 日本15aws",
+        "🇯🇵 [飞鸟云] 日本16aws",
+        "🇯🇵 [飞鸟云] 日本17aws",
+        "🇯🇵 [飞鸟云] 日本18aws"
       ]
     },
     {
       "tag": "🇸🇬 狮城手动",
       "type": "selector",
       "outbounds": [
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG1",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG2",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG3",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG4",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG5",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG6",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG7",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG8",
-        "🇸🇬 [LLG] 🇸🇬Singapore 01",
-        "🇸🇬 [LLG] 🇸🇬Singapore 02",
-        "🇸🇬 [LLG] 🇸🇬Singapore 03",
-        "🇸🇬 [LLG] 🇸🇬Singapore 04",
-        "🇸🇬 [LLG] 🇸🇬Singapore 05",
-        "🇸🇬 [LLG] 🇸🇬Singapore 06",
-        "🇸🇬 [速游] 新加坡05-CDN优选",
-        "🇸🇬 [速游] 新加坡05-CDN电信优选",
-        "🇸🇬 [速游] 新加坡05-CDN移动优选",
-        "🇸🇬 [速游] 新加坡05-CDN联通优选"
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 01",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 02",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 03",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 04",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 05",
+        "🇸🇬 [飞鸟云] IPv6新加坡01",
+        "🇸🇬 [飞鸟云] IPv6新加坡03",
+        "🇸🇬 [飞鸟云] IPv6新加坡04",
+        "🇸🇬 [飞鸟云] 新加坡01aws",
+        "🇸🇬 [飞鸟云] 新加坡02aws",
+        "🇸🇬 [飞鸟云] 新加坡03aws",
+        "🇸🇬 [飞鸟云] 新加坡04aws",
+        "🇸🇬 [飞鸟云] 新加坡05aws",
+        "🇸🇬 [飞鸟云] 新加坡06aws",
+        "🇸🇬 [飞鸟云] 新加坡07aws",
+        "🇸🇬 [飞鸟云] 新加坡08aws",
+        "🇸🇬 [飞鸟云] 新加坡09aws",
+        "🇸🇬 [飞鸟云] 新加坡10aws",
+        "🇸🇬 [飞鸟云] 新加坡11aws",
+        "🇸🇬 [飞鸟云] 新加坡12aws",
+        "🇸🇬 [飞鸟云] 新加坡13aws",
+        "🇸🇬 [飞鸟云] 新加坡14aws",
+        "🇸🇬 [飞鸟云] 新加坡15aws"
       ]
     },
     {
       "tag": "🇺🇲 美国手动",
       "type": "selector",
       "outbounds": [
-        "🇺🇸 [BoostNet] 🇺🇸 美国US1",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US2",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US3",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US4",
-        "🇺🇸 [LLG] 🇺🇸United States 01",
-        "🇺🇸 [LLG] 🇺🇸United States 02",
-        "🇺🇸 [LLG] 🇺🇸United States 03",
-        "🇺🇸 [LLG] 🇺🇸United States 04",
-        "🇺🇸 [LLG] 🇺🇸United States 05",
-        "🇺🇸 [LLG] 🇺🇸United States 06",
-        "🇺🇸 [速游] 美国05-CDN电信优选",
-        "🇺🇸 [速游] 美国05-CDN移动优选",
-        "🇺🇸 [速游] 美国05-CDN联通优选",
-        "🇺🇸 [速游] 美国05（大家下载APP使用优质节点）",
-        "🇺🇸 [速游] 美国06-CDN优选",
-        "🇺🇸 [速游] 美国06-CDN电信优选",
-        "🇺🇸 [速游] 美国06-CDN移动优选",
-        "🇺🇸 [速游] 美国06-CDN联通优选"
+        "🇺🇸 [BYG] 🇺🇸 V美国 01",
+        "🇺🇸 [BYG] 🇺🇸 V美国 02",
+        "🇺🇸 [BYG] 🇺🇸 V美国 03",
+        "🇺🇸 [BYG] 🇺🇸 V美国 04",
+        "🇺🇸 [BYG] 🇺🇸 V美国 05",
+        "🇺🇸 [BYG] 🇺🇸 V美国 06",
+        "🇺🇸 [BYG] 🇺🇸 V美国 07",
+        "🇺🇸 [飞鸟云] 美国01aws",
+        "🇺🇸 [飞鸟云] 美国02aws",
+        "🇺🇸 [飞鸟云] 美国03aws",
+        "🇺🇸 [飞鸟云] 美国06aws",
+        "🇺🇸 [飞鸟云] 美国07aws",
+        "🇺🇸 [飞鸟云] 美国09aws"
       ]
     },
     {
       "tag": "🐸 手动选择",
       "type": "selector",
       "outbounds": [
-        "[BoostNet] 官网:boostqz.com",
-        "🇦🇷 [BoostNet] 🇦🇷 阿根廷AR-5倍率",
-        "🇦🇺 [BoostNet] 🇦🇺 澳洲AU-3倍率",
-        "🇬🇧 [BoostNet] 🇬🇧 英国UK-3倍率",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK1",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK10",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK11",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK12",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK13",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK14",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK15",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK16",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK2",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK3",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK4",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK5",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK6",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK7",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK8",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK9",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP1",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP2",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP3",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP4",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP5",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP6",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP7",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP8",
-        "🇲🇾 [BoostNet] 🇲🇾 马来西亚ML-3倍率",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG1",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG2",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG3",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG4",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG5",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG6",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG7",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG8",
-        "🇹🇷 [BoostNet] 🇹🇷 土耳其TR-5倍率",
-        "🇹🇼 [BoostNet] 🇹🇼 台湾TW1",
-        "🇹🇼 [BoostNet] 🇹🇼 台湾TW2",
-        "🇹🇼 [BoostNet] 🇹🇼 台湾TW3",
-        "🇹🇼 [BoostNet] 🇹🇼 台湾TW4",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US1",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US2",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US3",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US4",
-        "[LLG] 未到期：2026-02-05",
-        "🇦🇶 [LLG] 🇦🇶Antarctica 01",
-        "🇦🇶 [LLG] 🇦🇶Antarctica 02",
-        "🇦🇶 [LLG] 🇦🇶Antarctica 03",
-        "🇨🇦 [LLG] 🇨🇦Canada 01",
-        "🇨🇦 [LLG] 🇨🇦Canada 02",
-        "🇨🇦 [LLG] 🇨🇦Canada 03",
-        "🇬🇧 [LLG] 🇬🇧United Kingdom 01",
-        "🇬🇧 [LLG] 🇬🇧United Kingdom 02",
-        "🇬🇧 [LLG] 🇬🇧United Kingdom 03",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 01",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 02",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 03",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 04",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 05",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 06",
-        "🇯🇵 [LLG] 🇯🇵Japan 01",
-        "🇯🇵 [LLG] 🇯🇵Japan 02",
-        "🇯🇵 [LLG] 🇯🇵Japan 03",
-        "🇯🇵 [LLG] 🇯🇵Japan 04",
-        "🇯🇵 [LLG] 🇯🇵Japan 05",
-        "🇯🇵 [LLG] 🇯🇵Japan 06",
-        "🇰🇷 [LLG] 🇰🇷Korea 01",
-        "🇰🇷 [LLG] 🇰🇷Korea 02",
-        "🇰🇷 [LLG] 🇰🇷Korea 03",
-        "🇸🇬 [LLG] 🇸🇬Singapore 01",
-        "🇸🇬 [LLG] 🇸🇬Singapore 02",
-        "🇸🇬 [LLG] 🇸🇬Singapore 03",
-        "🇸🇬 [LLG] 🇸🇬Singapore 04",
-        "🇸🇬 [LLG] 🇸🇬Singapore 05",
-        "🇸🇬 [LLG] 🇸🇬Singapore 06",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 01",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 02",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 03",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 04",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 05",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 06",
-        "🇺🇸 [LLG] 🇺🇸United States 01",
-        "🇺🇸 [LLG] 🇺🇸United States 02",
-        "🇺🇸 [LLG] 🇺🇸United States 03",
-        "🇺🇸 [LLG] 🇺🇸United States 04",
-        "🇺🇸 [LLG] 🇺🇸United States 05",
-        "🇺🇸 [LLG] 🇺🇸United States 06",
-        "🇭🇰 [速游] CDN香港（官网1： suyou.org）",
-        "🇸🇬 [速游] 新加坡05-CDN优选",
-        "🇸🇬 [速游] 新加坡05-CDN电信优选",
-        "🇸🇬 [速游] 新加坡05-CDN移动优选",
-        "🇸🇬 [速游] 新加坡05-CDN联通优选",
-        "🇯🇵 [速游] 日本03-CDN优选",
-        "🇯🇵 [速游] 日本05-CDN优选",
-        "🇯🇵 [速游] 日本05-CDN电信优选",
-        "🇯🇵 [速游] 日本05-CDN移动优选",
-        "🇯🇵 [速游] 日本05-CDN联通优选",
-        "[速游] 机场不保证速度和节点，请用APP",
-        "[速游] 测速直连",
-        "🇺🇸 [速游] 美国05-CDN电信优选",
-        "🇺🇸 [速游] 美国05-CDN移动优选",
-        "🇺🇸 [速游] 美国05-CDN联通优选",
-        "🇺🇸 [速游] 美国05（大家下载APP使用优质节点）",
-        "🇺🇸 [速游] 美国06-CDN优选",
-        "🇺🇸 [速游] 美国06-CDN电信优选",
-        "🇺🇸 [速游] 美国06-CDN移动优选",
-        "🇺🇸 [速游] 美国06-CDN联通优选",
-        "🇭🇰 [速游] 香港01-CDN联通(专线节点都在APP)",
-        "🇭🇰 [速游] 香港01（更多节点官网下载APP）",
-        "🇭🇰 [速游] 香港10-CDN优选",
-        "🇩🇪 [速游] 高防德国🇩🇪"
+        "🇧🇾 [BYG] 🇦🇪 V阿拉伯联合酋长国",
+        "🇧🇾 [BYG] 🇦🇱 V阿尔巴尼亚",
+        "🇧🇾 [BYG] 🇦🇴 V安哥拉",
+        "🇦🇷 [BYG] 🇦🇷 V阿根廷",
+        "🇦🇹 [BYG] 🇦🇹 V奥地利",
+        "🇦🇺 [BYG] 🇦🇺 V澳大利亚",
+        "🇧🇩 [BYG] 🇧🇩 V孟加拉",
+        "🇧🇪 [BYG] 🇧🇪 V比利时",
+        "🇧🇬 [BYG] 🇧🇬 V保加利亚",
+        "🇧🇾 [BYG] 🇧🇴 V玻利维亚",
+        "🇧🇷 [BYG] 🇧🇷 V巴西",
+        "🇨🇦 [BYG] 🇨🇦 V加拿大",
+        "🇨🇭 [BYG] 🇨🇭 V瑞士",
+        "🇨🇱 [BYG] 🇨🇱 V智利",
+        "🇨🇴 [BYG] 🇨🇴 V哥伦比亚",
+        "🇧🇾 [BYG] 🇨🇷 V哥斯达黎加",
+        "🇨🇾 [BYG] 🇨🇾 V塞浦路斯",
+        "🇩🇪 [BYG] 🇩🇪 V德国",
+        "🇩🇰 [BYG] 🇩🇰 V丹麦",
+        "🇪🇨 [BYG] 🇪🇨 V厄瓜多尔",
+        "🇪🇪 [BYG] 🇪🇪 V爱沙尼亚",
+        "🇧🇾 [BYG] 🇪🇬 V埃及",
+        "🇪🇸 [BYG] 🇪🇸 V西班牙",
+        "🇫🇮 [BYG] 🇫🇮 V芬兰",
+        "🇫🇷 [BYG] 🇫🇷 V法国",
+        "🇬🇧 [BYG] 🇬🇧 V英国",
+        "🇧🇾 [BYG] 🇬🇪 V格鲁吉亚",
+        "🇬🇷 [BYG] 🇬🇷 V希腊",
+        "🇭🇰 [BYG] 🇭🇰 V香港 01",
+        "🇭🇰 [BYG] 🇭🇰 V香港 02",
+        "🇭🇰 [BYG] 🇭🇰 V香港 03",
+        "🇭🇰 [BYG] 🇭🇰 V香港 04",
+        "🇭🇰 [BYG] 🇭🇰 V香港 05",
+        "🇭🇰 [BYG] 🇭🇰 V香港 06",
+        "🇭🇰 [BYG] 🇭🇰 V香港 07",
+        "🇭🇰 [BYG] 🇭🇰 V香港 08",
+        "🇭🇰 [BYG] 🇭🇰 V香港 09",
+        "🇭🇰 [BYG] 🇭🇰 V香港 10",
+        "🇭🇷 [BYG] 🇭🇷 V克罗地亚",
+        "🇮🇳 [BYG] 🇮🇩 V印度尼西亚",
+        "🇮🇪 [BYG] 🇮🇪 V爱尔兰",
+        "🇮🇱 [BYG] 🇮🇱 V以色列",
+        "🇮🇳 [BYG] 🇮🇳 V印度",
+        "🇧🇾 [BYG] 🇮🇶 V伊拉克",
+        "🇮🇸 [BYG] 🇮🇸 V冰岛",
+        "🇮🇹 [BYG] 🇮🇹 V意大利",
+        "🇯🇵 [BYG] 🇯🇵 V日本 01",
+        "🇯🇵 [BYG] 🇯🇵 V日本 02",
+        "🇯🇵 [BYG] 🇯🇵 V日本 03",
+        "🇯🇵 [BYG] 🇯🇵 V日本 04",
+        "🇯🇵 [BYG] 🇯🇵 V日本 05",
+        "🇰🇭 [BYG] 🇰🇭 V柬埔寨",
+        "🇰🇷 [BYG] 🇰🇷 V韩国",
+        "🇰🇿 [BYG] 🇰🇿 V哈萨克斯坦",
+        "🇱🇹 [BYG] 🇱🇹 V立陶宛",
+        "🇱🇺 [BYG] 🇱🇺 V卢森堡",
+        "🇱🇻 [BYG] 🇱🇻 V拉脱维亚",
+        "🇧🇾 [BYG] 🇲🇦 V摩洛哥",
+        "🇲🇩 [BYG] 🇲🇩 V摩尔多瓦",
+        "🇧🇾 [BYG] 🇲🇰 V马其顿",
+        "🇧🇾 [BYG] 🇲🇽 V墨西哥",
+        "🇲🇾 [BYG] 🇲🇾 V马来西亚",
+        "🇧🇾 [BYG] 🇳🇬 V尼日利亚",
+        "🇧🇾 [BYG] 🇳🇱 V荷兰",
+        "🇳🇴 [BYG] 🇳🇴 V挪威",
+        "🇧🇾 [BYG] 🇳🇵 V尼泊尔",
+        "🇳🇿 [BYG] 🇳🇿 V新西兰",
+        "🇧🇾 [BYG] 🇴🇲 V阿曼",
+        "🇵🇪 [BYG] 🇵🇪 V秘鲁",
+        "🇵🇭 [BYG] 🇵🇭 V菲律宾",
+        "🇧🇾 [BYG] 🇵🇰 V巴基斯坦",
+        "🇧🇾 [BYG] 🇵🇱 V波兰",
+        "🇵🇹 [BYG] 🇵🇹 V葡萄牙",
+        "🇧🇾 [BYG] 🇶🇦 V卡塔尔",
+        "🇷🇴 [BYG] 🇷🇴 V罗马尼亚",
+        "🇷🇸 [BYG] 🇷🇸 V塞尔维亚",
+        "🇷🇺 [BYG] 🇷🇺 V俄罗斯",
+        "🇸🇦 [BYG] 🇸🇦 V沙特阿拉伯",
+        "🇸🇪 [BYG] 🇸🇪 V瑞典",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 01",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 02",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 03",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 04",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 05",
+        "🇧🇾 [BYG] 🇸🇮 V斯洛文尼亚",
+        "🇹🇭 [BYG] 🇹🇭 V泰国",
+        "🇹🇷 [BYG] 🇹🇷 V土耳其",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 01",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 02",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 03",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 04",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 05",
+        "🇺🇦 [BYG] 🇺🇦 V乌克兰",
+        "🇺🇸 [BYG] 🇺🇸 V美国 01",
+        "🇺🇸 [BYG] 🇺🇸 V美国 02",
+        "🇺🇸 [BYG] 🇺🇸 V美国 03",
+        "🇺🇸 [BYG] 🇺🇸 V美国 04",
+        "🇺🇸 [BYG] 🇺🇸 V美国 05",
+        "🇺🇸 [BYG] 🇺🇸 V美国 06",
+        "🇺🇸 [BYG] 🇺🇸 V美国 07",
+        "🇺🇾 [BYG] 🇺🇾 V乌拉圭",
+        "🇺🇿 [BYG] 🇺🇿 V乌兹别克斯坦",
+        "🇻🇳 [BYG] 🇻🇳 V越南",
+        "🇧🇾 [BYG] 🇿🇦 V南非",
+        "🇸🇬 [飞鸟云] IPv6新加坡01",
+        "🇸🇬 [飞鸟云] IPv6新加坡03",
+        "🇸🇬 [飞鸟云] IPv6新加坡04",
+        "🇹🇼 [飞鸟云] hy2台湾01",
+        "🇹🇼 [飞鸟云] hy2台湾02",
+        "🇹🇼 [飞鸟云] hy2台湾03",
+        "🇹🇼 [飞鸟云] hy2台湾04",
+        "🇹🇼 [飞鸟云] hy2台湾05",
+        "🇹🇼 [飞鸟云] hy2台湾06",
+        "🇹🇼 [飞鸟云] hy2台湾07",
+        "🇹🇼 [飞鸟云] hy2台湾08",
+        "🇹🇼 [飞鸟云] hy2台湾09",
+        "🇸🇬 [飞鸟云] 新加坡01aws",
+        "🇸🇬 [飞鸟云] 新加坡02aws",
+        "🇸🇬 [飞鸟云] 新加坡03aws",
+        "🇸🇬 [飞鸟云] 新加坡04aws",
+        "🇸🇬 [飞鸟云] 新加坡05aws",
+        "🇸🇬 [飞鸟云] 新加坡06aws",
+        "🇸🇬 [飞鸟云] 新加坡07aws",
+        "🇸🇬 [飞鸟云] 新加坡08aws",
+        "🇸🇬 [飞鸟云] 新加坡09aws",
+        "🇸🇬 [飞鸟云] 新加坡10aws",
+        "🇸🇬 [飞鸟云] 新加坡11aws",
+        "🇸🇬 [飞鸟云] 新加坡12aws",
+        "🇸🇬 [飞鸟云] 新加坡13aws",
+        "🇸🇬 [飞鸟云] 新加坡14aws",
+        "🇸🇬 [飞鸟云] 新加坡15aws",
+        "🇯🇵 [飞鸟云] 日本01aws",
+        "🇯🇵 [飞鸟云] 日本02aws",
+        "🇯🇵 [飞鸟云] 日本03aws",
+        "🇯🇵 [飞鸟云] 日本04aws",
+        "🇯🇵 [飞鸟云] 日本07aws",
+        "🇯🇵 [飞鸟云] 日本08aws",
+        "🇯🇵 [飞鸟云] 日本11aws",
+        "🇯🇵 [飞鸟云] 日本12aws",
+        "🇯🇵 [飞鸟云] 日本13aws",
+        "🇯🇵 [飞鸟云] 日本14aws",
+        "🇯🇵 [飞鸟云] 日本15aws",
+        "🇯🇵 [飞鸟云] 日本16aws",
+        "🇯🇵 [飞鸟云] 日本17aws",
+        "🇯🇵 [飞鸟云] 日本18aws",
+        "[飞鸟云] 有超过20多个节点，不够请到官网使用文档，下载最新的客户端",
+        "[飞鸟云] 电报群https://t.me/feiniaoyunjichang",
+        "🇺🇸 [飞鸟云] 美国01aws",
+        "🇺🇸 [飞鸟云] 美国02aws",
+        "🇺🇸 [飞鸟云] 美国03aws",
+        "🇺🇸 [飞鸟云] 美国06aws",
+        "🇺🇸 [飞鸟云] 美国07aws",
+        "🇺🇸 [飞鸟云] 美国09aws",
+        "[飞鸟云] 防失联页https://github.com/feiniaoyun"
       ]
     },
     {
       "tag": "♻️ 自动选择",
       "type": "urltest",
       "outbounds": [
-        "🇦🇷 [BoostNet] 🇦🇷 阿根廷AR-5倍率",
-        "🇦🇺 [BoostNet] 🇦🇺 澳洲AU-3倍率",
-        "🇬🇧 [BoostNet] 🇬🇧 英国UK-3倍率",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK1",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK10",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK11",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK12",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK13",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK14",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK15",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK16",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK2",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK3",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK4",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK5",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK6",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK7",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK8",
-        "🇭🇰 [BoostNet] 🇭🇰 香港HK9",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP1",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP2",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP3",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP4",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP5",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP6",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP7",
-        "🇯🇵 [BoostNet] 🇯🇵 日本JP8",
-        "🇲🇾 [BoostNet] 🇲🇾 马来西亚ML-3倍率",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG1",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG2",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG3",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG4",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG5",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG6",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG7",
-        "🇸🇬 [BoostNet] 🇸🇬 新加坡SG8",
-        "🇹🇷 [BoostNet] 🇹🇷 土耳其TR-5倍率",
-        "🇹🇼 [BoostNet] 🇹🇼 台湾TW1",
-        "🇹🇼 [BoostNet] 🇹🇼 台湾TW2",
-        "🇹🇼 [BoostNet] 🇹🇼 台湾TW3",
-        "🇹🇼 [BoostNet] 🇹🇼 台湾TW4",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US1",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US2",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US3",
-        "🇺🇸 [BoostNet] 🇺🇸 美国US4",
-        "[LLG] 未到期：2026-02-05",
-        "🇦🇶 [LLG] 🇦🇶Antarctica 01",
-        "🇦🇶 [LLG] 🇦🇶Antarctica 02",
-        "🇦🇶 [LLG] 🇦🇶Antarctica 03",
-        "🇨🇦 [LLG] 🇨🇦Canada 01",
-        "🇨🇦 [LLG] 🇨🇦Canada 02",
-        "🇨🇦 [LLG] 🇨🇦Canada 03",
-        "🇬🇧 [LLG] 🇬🇧United Kingdom 01",
-        "🇬🇧 [LLG] 🇬🇧United Kingdom 02",
-        "🇬🇧 [LLG] 🇬🇧United Kingdom 03",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 01",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 02",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 03",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 04",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 05",
-        "🇭🇰 [LLG] 🇭🇰Hong Kong 06",
-        "🇯🇵 [LLG] 🇯🇵Japan 01",
-        "🇯🇵 [LLG] 🇯🇵Japan 02",
-        "🇯🇵 [LLG] 🇯🇵Japan 03",
-        "🇯🇵 [LLG] 🇯🇵Japan 04",
-        "🇯🇵 [LLG] 🇯🇵Japan 05",
-        "🇯🇵 [LLG] 🇯🇵Japan 06",
-        "🇰🇷 [LLG] 🇰🇷Korea 01",
-        "🇰🇷 [LLG] 🇰🇷Korea 02",
-        "🇰🇷 [LLG] 🇰🇷Korea 03",
-        "🇸🇬 [LLG] 🇸🇬Singapore 01",
-        "🇸🇬 [LLG] 🇸🇬Singapore 02",
-        "🇸🇬 [LLG] 🇸🇬Singapore 03",
-        "🇸🇬 [LLG] 🇸🇬Singapore 04",
-        "🇸🇬 [LLG] 🇸🇬Singapore 05",
-        "🇸🇬 [LLG] 🇸🇬Singapore 06",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 01",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 02",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 03",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 04",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 05",
-        "🇹🇼 [LLG] 🇹🇼Taiwan 06",
-        "🇺🇸 [LLG] 🇺🇸United States 01",
-        "🇺🇸 [LLG] 🇺🇸United States 02",
-        "🇺🇸 [LLG] 🇺🇸United States 03",
-        "🇺🇸 [LLG] 🇺🇸United States 04",
-        "🇺🇸 [LLG] 🇺🇸United States 05",
-        "🇺🇸 [LLG] 🇺🇸United States 06",
-        "🇸🇬 [速游] 新加坡05-CDN优选",
-        "🇸🇬 [速游] 新加坡05-CDN电信优选",
-        "🇸🇬 [速游] 新加坡05-CDN移动优选",
-        "🇸🇬 [速游] 新加坡05-CDN联通优选",
-        "🇯🇵 [速游] 日本03-CDN优选",
-        "🇯🇵 [速游] 日本05-CDN优选",
-        "🇯🇵 [速游] 日本05-CDN电信优选",
-        "🇯🇵 [速游] 日本05-CDN移动优选",
-        "🇯🇵 [速游] 日本05-CDN联通优选",
-        "[速游] 机场不保证速度和节点，请用APP",
-        "[速游] 测速直连",
-        "🇺🇸 [速游] 美国05-CDN电信优选",
-        "🇺🇸 [速游] 美国05-CDN移动优选",
-        "🇺🇸 [速游] 美国05-CDN联通优选",
-        "🇺🇸 [速游] 美国05（大家下载APP使用优质节点）",
-        "🇺🇸 [速游] 美国06-CDN优选",
-        "🇺🇸 [速游] 美国06-CDN电信优选",
-        "🇺🇸 [速游] 美国06-CDN移动优选",
-        "🇺🇸 [速游] 美国06-CDN联通优选",
-        "🇭🇰 [速游] 香港01-CDN联通(专线节点都在APP)",
-        "🇭🇰 [速游] 香港10-CDN优选",
-        "🇩🇪 [速游] 高防德国🇩🇪"
+        "🇧🇾 [BYG] 🇦🇪 V阿拉伯联合酋长国",
+        "🇧🇾 [BYG] 🇦🇱 V阿尔巴尼亚",
+        "🇧🇾 [BYG] 🇦🇴 V安哥拉",
+        "🇦🇷 [BYG] 🇦🇷 V阿根廷",
+        "🇦🇹 [BYG] 🇦🇹 V奥地利",
+        "🇦🇺 [BYG] 🇦🇺 V澳大利亚",
+        "🇧🇩 [BYG] 🇧🇩 V孟加拉",
+        "🇧🇪 [BYG] 🇧🇪 V比利时",
+        "🇧🇬 [BYG] 🇧🇬 V保加利亚",
+        "🇧🇾 [BYG] 🇧🇴 V玻利维亚",
+        "🇧🇷 [BYG] 🇧🇷 V巴西",
+        "🇨🇦 [BYG] 🇨🇦 V加拿大",
+        "🇨🇭 [BYG] 🇨🇭 V瑞士",
+        "🇨🇱 [BYG] 🇨🇱 V智利",
+        "🇨🇴 [BYG] 🇨🇴 V哥伦比亚",
+        "🇧🇾 [BYG] 🇨🇷 V哥斯达黎加",
+        "🇨🇾 [BYG] 🇨🇾 V塞浦路斯",
+        "🇩🇪 [BYG] 🇩🇪 V德国",
+        "🇩🇰 [BYG] 🇩🇰 V丹麦",
+        "🇪🇨 [BYG] 🇪🇨 V厄瓜多尔",
+        "🇪🇪 [BYG] 🇪🇪 V爱沙尼亚",
+        "🇧🇾 [BYG] 🇪🇬 V埃及",
+        "🇪🇸 [BYG] 🇪🇸 V西班牙",
+        "🇫🇮 [BYG] 🇫🇮 V芬兰",
+        "🇫🇷 [BYG] 🇫🇷 V法国",
+        "🇬🇧 [BYG] 🇬🇧 V英国",
+        "🇧🇾 [BYG] 🇬🇪 V格鲁吉亚",
+        "🇬🇷 [BYG] 🇬🇷 V希腊",
+        "🇭🇰 [BYG] 🇭🇰 V香港 01",
+        "🇭🇰 [BYG] 🇭🇰 V香港 02",
+        "🇭🇰 [BYG] 🇭🇰 V香港 03",
+        "🇭🇰 [BYG] 🇭🇰 V香港 04",
+        "🇭🇰 [BYG] 🇭🇰 V香港 05",
+        "🇭🇰 [BYG] 🇭🇰 V香港 06",
+        "🇭🇰 [BYG] 🇭🇰 V香港 07",
+        "🇭🇰 [BYG] 🇭🇰 V香港 08",
+        "🇭🇰 [BYG] 🇭🇰 V香港 09",
+        "🇭🇰 [BYG] 🇭🇰 V香港 10",
+        "🇭🇷 [BYG] 🇭🇷 V克罗地亚",
+        "🇮🇳 [BYG] 🇮🇩 V印度尼西亚",
+        "🇮🇪 [BYG] 🇮🇪 V爱尔兰",
+        "🇮🇱 [BYG] 🇮🇱 V以色列",
+        "🇮🇳 [BYG] 🇮🇳 V印度",
+        "🇧🇾 [BYG] 🇮🇶 V伊拉克",
+        "🇮🇸 [BYG] 🇮🇸 V冰岛",
+        "🇮🇹 [BYG] 🇮🇹 V意大利",
+        "🇯🇵 [BYG] 🇯🇵 V日本 01",
+        "🇯🇵 [BYG] 🇯🇵 V日本 02",
+        "🇯🇵 [BYG] 🇯🇵 V日本 03",
+        "🇯🇵 [BYG] 🇯🇵 V日本 04",
+        "🇯🇵 [BYG] 🇯🇵 V日本 05",
+        "🇰🇭 [BYG] 🇰🇭 V柬埔寨",
+        "🇰🇷 [BYG] 🇰🇷 V韩国",
+        "🇰🇿 [BYG] 🇰🇿 V哈萨克斯坦",
+        "🇱🇹 [BYG] 🇱🇹 V立陶宛",
+        "🇱🇺 [BYG] 🇱🇺 V卢森堡",
+        "🇱🇻 [BYG] 🇱🇻 V拉脱维亚",
+        "🇧🇾 [BYG] 🇲🇦 V摩洛哥",
+        "🇲🇩 [BYG] 🇲🇩 V摩尔多瓦",
+        "🇧🇾 [BYG] 🇲🇰 V马其顿",
+        "🇧🇾 [BYG] 🇲🇽 V墨西哥",
+        "🇲🇾 [BYG] 🇲🇾 V马来西亚",
+        "🇧🇾 [BYG] 🇳🇬 V尼日利亚",
+        "🇧🇾 [BYG] 🇳🇱 V荷兰",
+        "🇳🇴 [BYG] 🇳🇴 V挪威",
+        "🇧🇾 [BYG] 🇳🇵 V尼泊尔",
+        "🇳🇿 [BYG] 🇳🇿 V新西兰",
+        "🇧🇾 [BYG] 🇴🇲 V阿曼",
+        "🇵🇪 [BYG] 🇵🇪 V秘鲁",
+        "🇵🇭 [BYG] 🇵🇭 V菲律宾",
+        "🇧🇾 [BYG] 🇵🇰 V巴基斯坦",
+        "🇧🇾 [BYG] 🇵🇱 V波兰",
+        "🇵🇹 [BYG] 🇵🇹 V葡萄牙",
+        "🇧🇾 [BYG] 🇶🇦 V卡塔尔",
+        "🇷🇴 [BYG] 🇷🇴 V罗马尼亚",
+        "🇷🇸 [BYG] 🇷🇸 V塞尔维亚",
+        "🇷🇺 [BYG] 🇷🇺 V俄罗斯",
+        "🇸🇦 [BYG] 🇸🇦 V沙特阿拉伯",
+        "🇸🇪 [BYG] 🇸🇪 V瑞典",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 01",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 02",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 03",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 04",
+        "🇸🇬 [BYG] 🇸🇬 V新加坡 05",
+        "🇧🇾 [BYG] 🇸🇮 V斯洛文尼亚",
+        "🇹🇭 [BYG] 🇹🇭 V泰国",
+        "🇹🇷 [BYG] 🇹🇷 V土耳其",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 01",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 02",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 03",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 04",
+        "🇹🇼 [BYG] 🇹🇼 V台湾 05",
+        "🇺🇦 [BYG] 🇺🇦 V乌克兰",
+        "🇺🇸 [BYG] 🇺🇸 V美国 01",
+        "🇺🇸 [BYG] 🇺🇸 V美国 02",
+        "🇺🇸 [BYG] 🇺🇸 V美国 03",
+        "🇺🇸 [BYG] 🇺🇸 V美国 04",
+        "🇺🇸 [BYG] 🇺🇸 V美国 05",
+        "🇺🇸 [BYG] 🇺🇸 V美国 06",
+        "🇺🇸 [BYG] 🇺🇸 V美国 07",
+        "🇺🇾 [BYG] 🇺🇾 V乌拉圭",
+        "🇺🇿 [BYG] 🇺🇿 V乌兹别克斯坦",
+        "🇻🇳 [BYG] 🇻🇳 V越南",
+        "🇧🇾 [BYG] 🇿🇦 V南非",
+        "🇸🇬 [飞鸟云] IPv6新加坡01",
+        "🇸🇬 [飞鸟云] IPv6新加坡03",
+        "🇸🇬 [飞鸟云] IPv6新加坡04",
+        "🇹🇼 [飞鸟云] hy2台湾01",
+        "🇹🇼 [飞鸟云] hy2台湾02",
+        "🇹🇼 [飞鸟云] hy2台湾03",
+        "🇹🇼 [飞鸟云] hy2台湾04",
+        "🇹🇼 [飞鸟云] hy2台湾05",
+        "🇹🇼 [飞鸟云] hy2台湾06",
+        "🇹🇼 [飞鸟云] hy2台湾07",
+        "🇹🇼 [飞鸟云] hy2台湾08",
+        "🇹🇼 [飞鸟云] hy2台湾09",
+        "🇸🇬 [飞鸟云] 新加坡01aws",
+        "🇸🇬 [飞鸟云] 新加坡02aws",
+        "🇸🇬 [飞鸟云] 新加坡03aws",
+        "🇸🇬 [飞鸟云] 新加坡04aws",
+        "🇸🇬 [飞鸟云] 新加坡05aws",
+        "🇸🇬 [飞鸟云] 新加坡06aws",
+        "🇸🇬 [飞鸟云] 新加坡07aws",
+        "🇸🇬 [飞鸟云] 新加坡08aws",
+        "🇸🇬 [飞鸟云] 新加坡09aws",
+        "🇸🇬 [飞鸟云] 新加坡10aws",
+        "🇸🇬 [飞鸟云] 新加坡11aws",
+        "🇸🇬 [飞鸟云] 新加坡12aws",
+        "🇸🇬 [飞鸟云] 新加坡13aws",
+        "🇸🇬 [飞鸟云] 新加坡14aws",
+        "🇸🇬 [飞鸟云] 新加坡15aws",
+        "🇯🇵 [飞鸟云] 日本01aws",
+        "🇯🇵 [飞鸟云] 日本02aws",
+        "🇯🇵 [飞鸟云] 日本03aws",
+        "🇯🇵 [飞鸟云] 日本04aws",
+        "🇯🇵 [飞鸟云] 日本07aws",
+        "🇯🇵 [飞鸟云] 日本08aws",
+        "🇯🇵 [飞鸟云] 日本11aws",
+        "🇯🇵 [飞鸟云] 日本12aws",
+        "🇯🇵 [飞鸟云] 日本13aws",
+        "🇯🇵 [飞鸟云] 日本14aws",
+        "🇯🇵 [飞鸟云] 日本15aws",
+        "🇯🇵 [飞鸟云] 日本16aws",
+        "🇯🇵 [飞鸟云] 日本17aws",
+        "🇯🇵 [飞鸟云] 日本18aws",
+        "[飞鸟云] 电报群https://t.me/feiniaoyunjichang",
+        "🇺🇸 [飞鸟云] 美国01aws",
+        "🇺🇸 [飞鸟云] 美国02aws",
+        "🇺🇸 [飞鸟云] 美国03aws",
+        "🇺🇸 [飞鸟云] 美国06aws",
+        "🇺🇸 [飞鸟云] 美国07aws",
+        "🇺🇸 [飞鸟云] 美国09aws",
+        "[飞鸟云] 防失联页https://github.com/feiniaoyun"
       ],
       "interval": "10m",
       "tolerance": 200
@@ -655,790 +724,42 @@
       "type": "direct"
     },
     {
-      "tag": "[BoostNet] 官网:boostqz.com",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40200,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇦🇷 [BoostNet] 🇦🇷 阿根廷AR-5倍率",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40254,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇦🇺 [BoostNet] 🇦🇺 澳洲AU-3倍率",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40255,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇬🇧 [BoostNet] 🇬🇧 英国UK-3倍率",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40251,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK1",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40201,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK10",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40210,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK11",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40301,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK12",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40302,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK13",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40303,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK14",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40304,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK15",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40305,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK16",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40306,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK2",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40202,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK3",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40203,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK4",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40204,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK5",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40205,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK6",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40206,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK7",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40207,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK8",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40208,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇭🇰 [BoostNet] 🇭🇰 香港HK9",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40209,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇯🇵 [BoostNet] 🇯🇵 日本JP1",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40231,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇯🇵 [BoostNet] 🇯🇵 日本JP2",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40232,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇯🇵 [BoostNet] 🇯🇵 日本JP3",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40233,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇯🇵 [BoostNet] 🇯🇵 日本JP4",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40234,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇯🇵 [BoostNet] 🇯🇵 日本JP5",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40235,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇯🇵 [BoostNet] 🇯🇵 日本JP6",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40236,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇯🇵 [BoostNet] 🇯🇵 日本JP7",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40237,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇯🇵 [BoostNet] 🇯🇵 日本JP8",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40238,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇲🇾 [BoostNet] 🇲🇾 马来西亚ML-3倍率",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40252,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇸🇬 [BoostNet] 🇸🇬 新加坡SG1",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40211,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇸🇬 [BoostNet] 🇸🇬 新加坡SG2",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40212,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇸🇬 [BoostNet] 🇸🇬 新加坡SG3",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40213,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇸🇬 [BoostNet] 🇸🇬 新加坡SG4",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40214,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇸🇬 [BoostNet] 🇸🇬 新加坡SG5",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40215,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇸🇬 [BoostNet] 🇸🇬 新加坡SG6",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40216,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇸🇬 [BoostNet] 🇸🇬 新加坡SG7",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40217,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇸🇬 [BoostNet] 🇸🇬 新加坡SG8",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40218,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇹🇷 [BoostNet] 🇹🇷 土耳其TR-5倍率",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40253,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇹🇼 [BoostNet] 🇹🇼 台湾TW1",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40221,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇹🇼 [BoostNet] 🇹🇼 台湾TW2",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40222,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇹🇼 [BoostNet] 🇹🇼 台湾TW3",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40223,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇹🇼 [BoostNet] 🇹🇼 台湾TW4",
-      "type": "shadowsocks",
-      "server": "c.idydz.top",
-      "server_port": 40224,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇺🇸 [BoostNet] 🇺🇸 美国US1",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40241,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇺🇸 [BoostNet] 🇺🇸 美国US2",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40242,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇺🇸 [BoostNet] 🇺🇸 美国US3",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40243,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "🇺🇸 [BoostNet] 🇺🇸 美国US4",
-      "type": "shadowsocks",
-      "server": "d.idydz.top",
-      "server_port": 40244,
-      "method": "chacha20-ietf-poly1305",
-      "password": "88f5cea5-dc19-4213-aee8-93e618b92a7c"
-    },
-    {
-      "tag": "[LLG] 剩余流量：44.43 GB",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7000,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "[LLG] 未到期：2026-02-05",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7000,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇺🇸 [LLG] 美国免费[ipv6]",
+      "tag": "🇧🇾 [BYG] 🇦🇪 V阿拉伯联合酋长国",
       "type": "vless",
-      "server": "2605:6400:20:337:4b2f:2186:32c7:591f",
-      "server_port": 443,
-      "uuid": "4b051cad-1ba9-4436-be3f-f28e8fce2a3e",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26058,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "us.archive.ubuntu.com",
+        "server_name": "www.apple.com",
         "insecure": false,
         "reality": {
           "enabled": true,
-          "public_key": "IDKfxFjmVdUwLZJazMqqJZabKPGhxwNhp1sOPKvHqwo",
-          "short_id": "758c70f9"
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
         },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "[LLG] 距离下次重置流量剩余：21天",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7000,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇦🇶 [LLG] 🇦🇶Antarctica 01",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7012,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇦🇶 [LLG] 🇦🇶Antarctica 02",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14799,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇦🇶 [LLG] 🇦🇶Antarctica 03",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7512,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇨🇦 [LLG] 🇨🇦Canada 01",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7011,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇨🇦 [LLG] 🇨🇦Canada 02",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14798,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇨🇦 [LLG] 🇨🇦Canada 03",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7511,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇬🇧 [LLG] 🇬🇧United Kingdom 01",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7014,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇬🇧 [LLG] 🇬🇧United Kingdom 02",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 17831,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇬🇧 [LLG] 🇬🇧United Kingdom 03",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7514,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇭🇰 [LLG] 🇭🇰Hong Kong 01",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7000,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇭🇰 [LLG] 🇭🇰Hong Kong 02",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7001,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇭🇰 [LLG] 🇭🇰Hong Kong 03",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14787,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇭🇰 [LLG] 🇭🇰Hong Kong 04",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14788,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇭🇰 [LLG] 🇭🇰Hong Kong 05",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7500,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇭🇰 [LLG] 🇭🇰Hong Kong 06",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7501,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇯🇵 [LLG] 🇯🇵Japan 01",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7004,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇯🇵 [LLG] 🇯🇵Japan 02",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7005,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇯🇵 [LLG] 🇯🇵Japan 03",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14791,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇯🇵 [LLG] 🇯🇵Japan 04",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14792,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇯🇵 [LLG] 🇯🇵Japan 05",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7504,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇯🇵 [LLG] 🇯🇵Japan 06",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7505,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇰🇷 [LLG] 🇰🇷Korea 01",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7010,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇰🇷 [LLG] 🇰🇷Korea 02",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14797,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇰🇷 [LLG] 🇰🇷Korea 03",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7510,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇸🇬 [LLG] 🇸🇬Singapore 01",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7008,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇸🇬 [LLG] 🇸🇬Singapore 02",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7009,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇸🇬 [LLG] 🇸🇬Singapore 03",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14795,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇸🇬 [LLG] 🇸🇬Singapore 04",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14796,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇸🇬 [LLG] 🇸🇬Singapore 05",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7508,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇸🇬 [LLG] 🇸🇬Singapore 06",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7509,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇹🇼 [LLG] 🇹🇼Taiwan 01",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7002,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇹🇼 [LLG] 🇹🇼Taiwan 02",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7003,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇹🇼 [LLG] 🇹🇼Taiwan 03",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14789,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇹🇼 [LLG] 🇹🇼Taiwan 04",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14790,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇹🇼 [LLG] 🇹🇼Taiwan 05",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7502,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇹🇼 [LLG] 🇹🇼Taiwan 06",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7503,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇺🇸 [LLG] 🇺🇸United States 01",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7006,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇺🇸 [LLG] 🇺🇸United States 02",
-      "type": "shadowsocks",
-      "server": "drtnmjjhu.swmixx.cn",
-      "server_port": 7007,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇺🇸 [LLG] 🇺🇸United States 03",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14793,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇺🇸 [LLG] 🇺🇸United States 04",
-      "type": "shadowsocks",
-      "server": "sdtfrmnju.bgubvg.cn",
-      "server_port": 14794,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇺🇸 [LLG] 🇺🇸United States 05",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7506,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇺🇸 [LLG] 🇺🇸United States 06",
-      "type": "shadowsocks",
-      "server": "szrhbetjmnx.4waf46.cn",
-      "server_port": 7507,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MjdlZmY4YWIyZDU0OGNkNw==:NGIwNTFjYWQtMWJhOS00NA=="
-    },
-    {
-      "tag": "🇭🇰 [速游] CDN香港（官网1： suyou.org）",
-      "type": "vmess",
-      "server": "104.18.88.59",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "cfcdn.ecolyte.org",
-        "insecure": true,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[速游] 剩余流量：160.62 GB",
+      "tag": "🇧🇾 [BYG] 🇦🇱 V阿尔巴尼亚",
       "type": "vless",
-      "server": "212.60.153.45",
-      "server_port": 8080,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26035,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "212.60.153.45",
+        "server_name": "www.apple.com",
         "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -1447,15 +768,20 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[速游] 套餐到期：长期有效",
+      "tag": "🇧🇾 [BYG] 🇦🇴 V安哥拉",
       "type": "vless",
-      "server": "212.60.153.45",
-      "server_port": 8080,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26049,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "212.60.153.45",
+        "server_name": "www.apple.com",
         "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -1464,558 +790,2862 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇬 [速游] 新加坡05-CDN优选",
-      "type": "vmess",
-      "server": "cm.cloudflare.22336666.xyz",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇦🇷 [BYG] 🇦🇷 V阿根廷",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26063,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "sg05.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇬 [速游] 新加坡05-CDN电信优选",
-      "type": "vmess",
-      "server": "104.18.43.72",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇦🇹 [BYG] 🇦🇹 V奥地利",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26025,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "sg05.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇬 [速游] 新加坡05-CDN移动优选",
-      "type": "vmess",
-      "server": "104.18.88.59",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇦🇺 [BYG] 🇦🇺 V澳大利亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26012,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "sg05.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇬 [速游] 新加坡05-CDN联通优选",
-      "type": "vmess",
-      "server": "172.67.77.213",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇧🇩 [BYG] 🇧🇩 V孟加拉",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26008,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "sg05.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇯🇵 [速游] 日本03-CDN优选",
-      "type": "vmess",
-      "server": "cm.cloudflare.22336666.xyz",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇧🇪 [BYG] 🇧🇪 V比利时",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26032,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "jp03.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇯🇵 [速游] 日本05-CDN优选",
-      "type": "vmess",
-      "server": "cm.cloudflare.22336666.xyz",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇧🇬 [BYG] 🇧🇬 V保加利亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26045,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "jp02.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇯🇵 [速游] 日本05-CDN电信优选",
-      "type": "vmess",
-      "server": "104.18.43.72",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇧🇾 [BYG] 🇧🇴 V玻利维亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26072,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "jp02.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇯🇵 [速游] 日本05-CDN移动优选",
-      "type": "vmess",
-      "server": "104.18.88.59",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇧🇷 [BYG] 🇧🇷 V巴西",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26071,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "jp02.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇯🇵 [速游] 日本05-CDN联通优选",
-      "type": "vmess",
-      "server": "172.67.77.213",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇨🇦 [BYG] 🇨🇦 V加拿大",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26001,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "jp02.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[速游] 机场不保证速度和节点，请用APP",
-      "type": "vmess",
-      "server": "cm.cloudflare.22336666.xyz",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇨🇭 [BYG] 🇨🇭 V瑞士",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26016,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
       "tls": {
         "enabled": true,
-        "server_name": "cfcdn.ecolyte.org",
-        "insecure": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[速游] 测速直连",
+      "tag": "🇨🇱 [BYG] 🇨🇱 V智利",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26069,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇨🇴 [BYG] 🇨🇴 V哥伦比亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26065,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇨🇷 V哥斯达黎加",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26067,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇨🇾 [BYG] 🇨🇾 V塞浦路斯",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26056,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇩🇪 [BYG] 🇩🇪 V德国",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26014,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇩🇰 [BYG] 🇩🇰 V丹麦",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26031,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇪🇨 [BYG] 🇪🇨 V厄瓜多尔",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26066,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇪🇪 [BYG] 🇪🇪 V爱沙尼亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26040,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇪🇬 V埃及",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26048,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇪🇸 [BYG] 🇪🇸 V西班牙",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26022,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇫🇮 [BYG] 🇫🇮 V芬兰",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26024,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇫🇷 [BYG] 🇫🇷 V法国",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26015,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇬🇧 [BYG] 🇬🇧 V英国",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26017,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇬🇪 V格鲁吉亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26036,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇬🇷 [BYG] 🇬🇷 V希腊",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26028,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 01",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21001,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 02",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21002,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 03",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21003,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 04",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21004,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 05",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21005,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 06",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21006,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 07",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21007,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 08",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21008,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 09",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21009,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇰 [BYG] 🇭🇰 V香港 10",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 21010,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇷 [BYG] 🇭🇷 V克罗地亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26041,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇮🇳 [BYG] 🇮🇩 V印度尼西亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26011,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇮🇪 [BYG] 🇮🇪 V爱尔兰",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26018,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇮🇱 [BYG] 🇮🇱 V以色列",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26055,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇮🇳 [BYG] 🇮🇳 V印度",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26007,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇮🇶 V伊拉克",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26054,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇮🇸 [BYG] 🇮🇸 V冰岛",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26019,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇮🇹 [BYG] 🇮🇹 V意大利",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26021,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇯🇵 [BYG] 🇯🇵 V日本 01",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 23001,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇯🇵 [BYG] 🇯🇵 V日本 02",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 23002,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇯🇵 [BYG] 🇯🇵 V日本 03",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 23003,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇯🇵 [BYG] 🇯🇵 V日本 04",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 23004,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇯🇵 [BYG] 🇯🇵 V日本 05",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 23005,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇰🇭 [BYG] 🇰🇭 V柬埔寨",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26004,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇰🇷 [BYG] 🇰🇷 V韩国",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26002,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇰🇿 [BYG] 🇰🇿 V哈萨克斯坦",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26062,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇱🇹 [BYG] 🇱🇹 V立陶宛",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26026,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇱🇺 [BYG] 🇱🇺 V卢森堡",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26033,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇱🇻 [BYG] 🇱🇻 V拉脱维亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26029,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇲🇦 V摩洛哥",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26051,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇲🇩 [BYG] 🇲🇩 V摩尔多瓦",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26039,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇲🇰 V马其顿",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26034,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇲🇽 V墨西哥",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26068,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇲🇾 [BYG] 🇲🇾 V马来西亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26005,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇳🇬 V尼日利亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26050,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇳🇱 V荷兰",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26023,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇴 [BYG] 🇳🇴 V挪威",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26030,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇳🇵 V尼泊尔",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26009,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇿 [BYG] 🇳🇿 V新西兰",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26013,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇴🇲 V阿曼",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26057,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇵🇪 [BYG] 🇵🇪 V秘鲁",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26064,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇵🇭 [BYG] 🇵🇭 V菲律宾",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26010,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇵🇰 V巴基斯坦",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26060,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇵🇱 V波兰",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26020,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇵🇹 [BYG] 🇵🇹 V葡萄牙",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26037,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇶🇦 V卡塔尔",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26059,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇴 [BYG] 🇷🇴 V罗马尼亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26043,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇸 [BYG] 🇷🇸 V塞尔维亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26047,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 [BYG] 🇷🇺 V俄罗斯",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26044,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇦 [BYG] 🇸🇦 V沙特阿拉伯",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26053,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇪 [BYG] 🇸🇪 V瑞典",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26027,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇬 [BYG] 🇸🇬 V新加坡 01",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 24001,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇬 [BYG] 🇸🇬 V新加坡 02",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 24002,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇬 [BYG] 🇸🇬 V新加坡 03",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 24003,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇬 [BYG] 🇸🇬 V新加坡 04",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 24004,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇬 [BYG] 🇸🇬 V新加坡 05",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 24005,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇸🇮 V斯洛文尼亚",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26042,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇹🇭 [BYG] 🇹🇭 V泰国",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26006,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇹🇷 [BYG] 🇹🇷 V土耳其",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26046,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇹🇼 [BYG] 🇹🇼 V台湾 01",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 22001,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇹🇼 [BYG] 🇹🇼 V台湾 02",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 22002,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇹🇼 [BYG] 🇹🇼 V台湾 03",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 22003,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇹🇼 [BYG] 🇹🇼 V台湾 04",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 22004,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇹🇼 [BYG] 🇹🇼 V台湾 05",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 22005,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇦 [BYG] 🇺🇦 V乌克兰",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26038,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇸 [BYG] 🇺🇸 V美国 01",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 25001,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇸 [BYG] 🇺🇸 V美国 02",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 25002,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇸 [BYG] 🇺🇸 V美国 03",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 25003,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇸 [BYG] 🇺🇸 V美国 04",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 25004,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇸 [BYG] 🇺🇸 V美国 05",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 25005,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇸 [BYG] 🇺🇸 V美国 06",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 25006,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇸 [BYG] 🇺🇸 V美国 07",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 25007,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇾 [BYG] 🇺🇾 V乌拉圭",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26070,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇺🇿 [BYG] 🇺🇿 V乌兹别克斯坦",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26061,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇻🇳 [BYG] 🇻🇳 V越南",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26003,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇧🇾 [BYG] 🇿🇦 V南非",
+      "type": "vless",
+      "server": "xinaleye.owolist.cn",
+      "server_port": 26052,
+      "uuid": "b6574cd8-dc1d-420c-d13b-aad1235010e0",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kCN-eBEaH2TtKGGozOXSWfzofl5ko45fMGyoLMTfsXw",
+          "short_id": "2226b50a0f5ab5d1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] IPv6新加坡01",
       "type": "hysteria2",
-      "server": "103.219.192.139",
-      "server_port": 16789,
-      "password": "2c52fda4-3667-4337-92df-6e8e57c2488f",
+      "server": "2400:6180:0:d2:0:3:38ee:c000",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
       "tls": {
         "enabled": true,
-        "server_name": "s0.awsstatic.com",
+        "server_name": "localhost",
         "insecure": true
       }
     },
     {
-      "tag": "🇺🇸 [速游] 美国05-CDN电信优选",
-      "type": "vmess",
-      "server": "104.18.43.72",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
+      "tag": "🇸🇬 [飞鸟云] IPv6新加坡03",
+      "type": "hysteria2",
+      "server": "2400:6180:0:d2:0:3:381e:e000",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
       "tls": {
         "enabled": true,
-        "server_name": "us05.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
+        "server_name": "localhost",
+        "insecure": true
       }
     },
     {
-      "tag": "🇺🇸 [速游] 美国05-CDN移动优选",
-      "type": "vmess",
-      "server": "104.18.88.59",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "us05.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇺🇸 [速游] 美国05-CDN联通优选",
-      "type": "vmess",
-      "server": "172.67.77.213",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "us05.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇺🇸 [速游] 美国05（大家下载APP使用优质节点）",
-      "type": "vmess",
-      "server": "cm.cloudflare.22336666.xyz",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "us05.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇺🇸 [速游] 美国06-CDN优选",
-      "type": "vmess",
-      "server": "cm.cloudflare.22336666.xyz",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "us06.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇺🇸 [速游] 美国06-CDN电信优选",
-      "type": "vmess",
-      "server": "104.18.43.72",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "us06.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇺🇸 [速游] 美国06-CDN移动优选",
-      "type": "vmess",
-      "server": "104.18.88.59",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "us06.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇺🇸 [速游] 美国06-CDN联通优选",
-      "type": "vmess",
-      "server": "172.67.77.213",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "us06.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇭🇰 [速游] 香港01-CDN联通(专线节点都在APP)",
-      "type": "vmess",
-      "server": "172.67.77.213",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "cfcdn.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇭🇰 [速游] 香港01（更多节点官网下载APP）",
-      "type": "vmess",
-      "server": "104.18.43.72",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "cfcdn.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇭🇰 [速游] 香港10-CDN优选",
-      "type": "vmess",
-      "server": "cm.cloudflare.22336666.xyz",
-      "server_port": 443,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "hk02.ecolyte.org",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "cfcdn.ecolyte.org"
-        },
-        "path": "/"
-      }
-    },
-    {
-      "tag": "🇩🇪 [速游] 高防德国🇩🇪",
-      "type": "vless",
-      "server": "212.60.153.45",
+      "tag": "🇸🇬 [飞鸟云] IPv6新加坡04",
+      "type": "hysteria2",
+      "server": "2400:6180:0:d2:0:3:38ee:a000",
       "server_port": 8080,
-      "uuid": "2c52fda4-3667-4337-92df-6e8e57c2488f",
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
       "tls": {
         "enabled": true,
-        "server_name": "212.60.153.45",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "flow": "xtls-rprx-vision"
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 [飞鸟云] hy2台湾01",
+      "type": "hysteria2",
+      "server": "tw1.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "tw1.459292.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 [飞鸟云] hy2台湾02",
+      "type": "hysteria2",
+      "server": "tw06.459292.xyz",
+      "server_port": 30001,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "tw06.459292.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 [飞鸟云] hy2台湾03",
+      "type": "hysteria2",
+      "server": "tw5.344211.cc",
+      "server_port": 30001,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 [飞鸟云] hy2台湾04",
+      "type": "hysteria2",
+      "server": "tw07.344211.cc",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "tw07.344211.cc",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 [飞鸟云] hy2台湾05",
+      "type": "hysteria2",
+      "server": "tw4.344211.cc",
+      "server_port": 30001,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 [飞鸟云] hy2台湾06",
+      "type": "hysteria2",
+      "server": "tw3.344211.cc",
+      "server_port": 30001,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 [飞鸟云] hy2台湾07",
+      "type": "hysteria2",
+      "server": "tw40.344211.cc",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 [飞鸟云] hy2台湾08",
+      "type": "hysteria2",
+      "server": "tw11.344211.cc",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 [飞鸟云] hy2台湾09",
+      "type": "hysteria2",
+      "server": "5gzdx.344211.cc",
+      "server_port": 30001,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "[飞鸟云] 剩余流量：590.58 GB",
+      "type": "hysteria2",
+      "server": "sg01.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "[飞鸟云] 套餐到期：长期有效",
+      "type": "hysteria2",
+      "server": "sg01.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡01aws",
+      "type": "hysteria2",
+      "server": "sg01.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡02aws",
+      "type": "hysteria2",
+      "server": "sg02.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡03aws",
+      "type": "hysteria2",
+      "server": "sg03.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡04aws",
+      "type": "hysteria2",
+      "server": "sg0004.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡05aws",
+      "type": "hysteria2",
+      "server": "sg05.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡06aws",
+      "type": "hysteria2",
+      "server": "sg06.459292.xyz",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡07aws",
+      "type": "hysteria2",
+      "server": "sg07.130239.xyz",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "sg07.130239.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡08aws",
+      "type": "hysteria2",
+      "server": "sg08.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡09aws",
+      "type": "hysteria2",
+      "server": "sg09.459292.xyz",
+      "server_port": 30003,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡10aws",
+      "type": "hysteria2",
+      "server": "fdbvafbavab.344211.cc",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡11aws",
+      "type": "hysteria2",
+      "server": "sg11.344211.cc",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "sg11.344211.cc",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡12aws",
+      "type": "hysteria2",
+      "server": "sg19.344211.cc",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "sg19.344211.cc",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡13aws",
+      "type": "hysteria2",
+      "server": "sg21.130239.xyz",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "sg21.130239.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡14aws",
+      "type": "hysteria2",
+      "server": "dfsbqwca.344211.cc",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "dfsbqwca.344211.cc",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇸🇬 [飞鸟云] 新加坡15aws",
+      "type": "hysteria2",
+      "server": "dfvbiajbacs.344211.cc",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "dfvbiajbacs.344211.cc",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本01aws",
+      "type": "hysteria2",
+      "server": "1jp003.459292.xyz",
+      "server_port": 30001,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本02aws",
+      "type": "hysteria2",
+      "server": "1jp001.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本03aws",
+      "type": "hysteria2",
+      "server": "jp06.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "jp06.459292.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本04aws",
+      "type": "hysteria2",
+      "server": "hyfnjp03.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本07aws",
+      "type": "hysteria2",
+      "server": "27add0b5.344211.cc",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本08aws",
+      "type": "hysteria2",
+      "server": "5791271f.130239.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "5791271f.130239.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本11aws",
+      "type": "hysteria2",
+      "server": "d3e887dc.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本12aws",
+      "type": "hysteria2",
+      "server": "5e6b6eb1.459292.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本13aws",
+      "type": "hysteria2",
+      "server": "sdfagasfe.344211.cc",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本14aws",
+      "type": "hysteria2",
+      "server": "vsdfgcasvag.130239.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "vsdfgcasvag.130239.xyz",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本15aws",
+      "type": "hysteria2",
+      "server": "adsgasgav.344211.cc",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本16aws",
+      "type": "hysteria2",
+      "server": "ababadbnnav.344211.cc",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本17aws",
+      "type": "hysteria2",
+      "server": "vkoamvoxw.130239.xyz",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 [飞鸟云] 日本18aws",
+      "type": "hysteria2",
+      "server": "asfdbabcwg.344211.cc",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "[飞鸟云] 有超过20多个节点，不够请到官网使用文档，下载最新的客户端",
+      "type": "trojan",
+      "server": "1.1.1.1",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "1.1.1.1",
+        "insecure": false
+      }
+    },
+    {
+      "tag": "[飞鸟云] 每次使用前更新订阅到最新，用不了，换个客户端，重新导入订阅，用手机流量试下。",
+      "type": "trojan",
+      "server": "1.1.1.1",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "1.1.1.1",
+        "insecure": false
+      }
+    },
+    {
+      "tag": "[飞鸟云] 电报群https://t.me/feiniaoyunjichang",
+      "type": "trojan",
+      "server": "1.1.1.1",
+      "server_port": 820,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "1.1.1.1",
+        "insecure": false
+      }
+    },
+    {
+      "tag": "🇺🇸 [飞鸟云] 美国01aws",
+      "type": "hysteria2",
+      "server": "dbb53608000.344211.cc",
+      "server_port": 8443,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 [飞鸟云] 美国02aws",
+      "type": "hysteria2",
+      "server": "us02.459292.xyz",
+      "server_port": 8080,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 [飞鸟云] 美国03aws",
+      "type": "hysteria2",
+      "server": "us03.459292.xyz",
+      "server_port": 20000,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 [飞鸟云] 美国06aws",
+      "type": "hysteria2",
+      "server": "rdfhvcabfq.130239.xyz",
+      "server_port": 30001,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 [飞鸟云] 美国07aws",
+      "type": "hysteria2",
+      "server": "egasdgas.130239.xyz",
+      "server_port": 30001,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 [飞鸟云] 美国09aws",
+      "type": "hysteria2",
+      "server": "ncwowbwc.344211.cc",
+      "server_port": 30001,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "localhost",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "[飞鸟云] 防失联页https://github.com/feiniaoyun",
+      "type": "trojan",
+      "server": "2.2.2.2",
+      "server_port": 820,
+      "password": "758c7867-a187-46a4-8796-bdc7a7d5ca83",
+      "tls": {
+        "enabled": true,
+        "server_name": "2.2.2.2",
+        "insecure": false
+      }
     }
   ],
   "route": {
@@ -2194,7 +3824,7 @@
         "tag": "geosite-fakeipfilter",
         "type": "remote",
         "format": "source",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/main/fakeipfilter.json",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/main/rules/fakeipfilter.json",
         "download_detour": "🎯 全球直连"
       },
       {
